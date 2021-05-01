@@ -26,7 +26,7 @@ $ jupyter notebook
 
 You will need to make some configurations before running the Jupyter notebook remotely, see [docs](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 
-## Built With
+## References
 
 * [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey)
 * [Numpy](https://numpy.org/) - NumPy is an open source project aiming to enable numerical computing with Python
