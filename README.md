@@ -33,4 +33,4 @@ You will need to make some configurations before running the Jupyter notebook re
 * [Pandas](https://pandas.pydata.org/) - Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool built on top of Python
 * [Matplotlib](https://matplotlib.org/) - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python
 * [Seaborn](https://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib
-* [opendatasets](https://github.com/JovianML/opendatasets) - opendatasets is a Python library for downloading datasets from online sources
+* [opendatasets](https://pypi.org/project/opendatasets/) - opendatasets is a Python library for downloading datasets from online sources
