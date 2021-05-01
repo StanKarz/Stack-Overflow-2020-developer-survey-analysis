@@ -28,13 +28,6 @@ You will need to make some configurations before running the Jupyter notebook re
 
 ## Built With
 
-Stack Overflow Developer Survey: https://insights.stackoverflow.com/survey
-- Pandas user guide: https://pandas.pydata.org/docs/user_guide/index.html
-- Matplotlib user guide: https://matplotlib.org/3.3.1/users/index.html
-- Seaborn user guide & tutorial: https://seaborn.pydata.org/tutorial.html
-- `opendatasets` Python library: https://github.com/JovianML/opendatasets
-
-
 * [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey)
 * [Numpy](https://numpy.org/) - NumPy is an open source project aiming to enable numerical computing with Python
 * [Pandas](https://pandas.pydata.org/) - Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool built on top of Python
