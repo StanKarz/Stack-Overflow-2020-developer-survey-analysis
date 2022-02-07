@@ -1,4 +1,4 @@
-# Stack Overflow 2020 Developer Survey Analysis
+# Stack Overflow 2020 developer survey analysis
 
 In this Jupyter notebook I will be analyzing the StackOverflow 2020 developer survey, the dataset contains responses to a survey that is conducted on an annual basis. It is one of the largest and most comprehensive survey of people who code around the world. Some topics covered include developers favourite technologies, job preferences, languages most interested in learning etc. 
 
